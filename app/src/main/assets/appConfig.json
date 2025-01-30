@@ -1,0 +1,498 @@
+{
+  "general": {
+    "screenOrientation": {
+      "iphone": null,
+      "ipad": null,
+      "androidPhone": null,
+      "androidTablet": null
+    },
+    "userAgentRegexes": [],
+    "replaceStrings": [],
+    "nativeBridgeUrls": [],
+    "languages": [],
+    "userAgentAdd": "median",
+    "enableWindowOpen": true,
+    "forceUserAgent": "",
+    "publicKey": "exwjrd",
+    "deviceRegKey": "t2e830cbq9q7440wa98r0mudzm",
+    "appName": "Westside Children's Therapy",
+    "initialUrl": "https://westsidechildrenstherapy.com/",
+    "iosBundleId": "co.median.ios.exwjrd",
+    "androidPackageName": "co.median.android.exwjrd",
+    "iosUserAgentAdd": "median",
+    "androidUserAgentAdd": "median",
+    "androidSigningKey": "release",
+    "iosCustomHeaders": {},
+    "androidCustomHeaders": {},
+    "injectMedianJS": true,
+    "androidForceUserAgent": "",
+    "iosForceUserAgent": "",
+    "version": 2
+  },
+  "navigation": {
+    "tabNavigation": {
+      "tabSelectionConfig": [],
+      "tabMenus": [],
+      "active": false
+    },
+    "sidebarNavigation": {
+      "menuSelectionConfig": {
+        "redirectLocations": [
+          {
+            "regex": ".*",
+            "menuName": "default",
+            "loggedIn": true
+          }
+        ]
+      },
+      "menus": [
+        {
+          "active": false,
+          "items": [
+            {
+              "url": "https://westsidechildrenstherapy.com/#",
+              "label": "About",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/our-childrens-therapy-clinics/",
+              "label": "Clinics",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/history/",
+              "label": "History",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/leadership/",
+              "label": "Leadership",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/westside-way-promise/",
+              "label": "Mission",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/testimonials/",
+              "label": "Testimonials",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/why-westside/",
+              "label": "Why westside",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/aba-therapy/",
+              "label": "Aba therapy",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/therapeutic-programs/",
+              "label": "Aba programs",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/ignite-therapy-program-preschool/",
+              "label": "Ignite aba program",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/rise-therapy-program/",
+              "label": "Rise aba program",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/focus-therapy-program/",
+              "label": "Focus aba program",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/child-counseling/",
+              "label": "Child counseling",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/diagnostic-testing/",
+              "label": "Diagnostic testing",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/feeding-therapy/",
+              "label": "Feeding therapy",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/occupational-therapy/",
+              "label": "Occupational therapy",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/pediatric-physical-therapy/",
+              "label": "Pediatric physical therapy",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/serial-casting/",
+              "label": "Serial casting",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/speech-therapy/",
+              "label": "Speech therapy",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/vitalstim/",
+              "label": "Vitalstim therapy",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/job-listings/",
+              "label": "Job listings",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/the-westside-way/",
+              "label": "Our culture",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/benefits/",
+              "label": "Our benefits",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/bcba-development-program/",
+              "label": "Bcba development",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/rbt-career-development/",
+              "label": "Rbt  development",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/serial-casting-apprenticeship-program/",
+              "label": "Casting apprenticeship",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/graduate-field-work/",
+              "label": "Fieldwork",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/student-observations/",
+              "label": "Observations",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/pay-online/",
+              "label": "Pay online",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/insurance/",
+              "label": "Insurance",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/pediatric-therapy-financial-grants-scholarships-illinois/",
+              "label": "Financial assistance",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/does-your-child-need-therapy/",
+              "label": "Developmental milestones",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/blog/",
+              "label": "Blog",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/locations/",
+              "label": "Locations",
+              "subLinks": []
+            },
+            {
+              "url": "https://westsidechildrenstherapy.com/get-started/",
+              "label": "Get started",
+              "subLinks": []
+            }
+          ],
+          "name": "default"
+        }
+      ]
+    },
+    "regexInternalExternal": {
+      "rules": [
+        {
+          "mode": "external",
+          "label": "Non-web links",
+          "pagesToTrigger": "custom",
+          "regex": "^(?!https?://).*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Facebook",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Twitter",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*twitter\\.com/.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Instagram",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*instagram\\.com/.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Google Maps",
+          "pagesToTrigger": "custom",
+          "regex": "https?://maps\\.google\\.com.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "Google Maps Search",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*google\\.com/maps/search/.*"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "LinkedIn",
+          "pagesToTrigger": "custom",
+          "regex": "https?://([-\\w]+\\.)*linkedin\\.com/.*"
+        },
+        {
+          "mode": "internal",
+          "label": "All pages on my domain",
+          "pagesToTrigger": "domain",
+          "regex": "https?:\\/\\/([-\\w]+\\.)*westsidechildrenstherapy.com(\\/.*)?$"
+        },
+        {
+          "mode": "appbrowser",
+          "label": "All Other Links",
+          "pagesToTrigger": "all",
+          "regex": ".*"
+        }
+      ],
+      "active": true
+    },
+    "androidPullToRefresh": false,
+    "iosPullToRefresh": true,
+    "navigationTitles": {
+      "titles": [],
+      "active": true
+    },
+    "ignorePageFinishedRegexes": [],
+    "actionConfig": {
+      "actions": [],
+      "actionSelection": [],
+      "active": true
+    },
+    "androidShowRefreshButton": false,
+    "iosShowRefreshButton": false,
+    "deepLinkDomains": {
+      "domains": [],
+      "enableAndroidApplinks": false
+    },
+    "navigationLevels": {
+      "levels": [],
+      "active": true
+    },
+    "toolbarNavigation": {
+      "enabled": true,
+      "visibilityByPages": "allPages",
+      "visibilityByBackButton": "backButtonActive",
+      "regexes": [
+        {
+          "enabled": true,
+          "regex": ".*"
+        }
+      ],
+      "items": [
+        {
+          "system": "back",
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "refresh",
+          "enabled": false,
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "forward",
+          "enabled": false,
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        }
+      ],
+      "v2": true
+    },
+    "redirects": [],
+    "iosShowOfflinePage": true,
+    "iosConnectionOfflineTime": 10,
+    "androidShowOfflinePage": true,
+    "androidConnectionOfflineTime": 10,
+    "maxWindows": {
+      "enabled": false,
+      "numWindows": 5,
+      "autoClose": false
+    }
+  },
+  "styling": {
+    "iosLaunchScreen": {
+      "backgroundColor": "#FFFFFF",
+      "backgroundColorDark": "#000000",
+      "backgroundImage": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348211_55fu38xhfcqpm_FFFFFF_1_2x2.png",
+      "backgroundImageDark": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348227_u3eyyf7t1cw44_000000_1_2x2.png",
+      "centerImageDark": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/app_icon_1706735347.png",
+      "centerImage": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/app_icon_1706735347.png"
+    },
+    "androidLaunchImages": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348631_8jzx960urmf3j_180x180.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348643_by9d6ex36560u_270x270.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348656_8tpnvt0q4fpqy_360x360.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348665_z54rgrv3w1cjg_540x540.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348676_bxhqa5m6ka7e8_720x720.png"
+    },
+    "androidLaunchImagesDark": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348693_djxrju7hxz000_180x180.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348752_2mx0qch9jr32u_270x270.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348796_908wzxce2m1n0_360x360.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348828_tvk8dt322h0kc_540x540.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/1706735348874_qy67jtqy5uccp_720x720.png"
+    },
+    "transitionInteractiveDelayMax": 0.2,
+    "menuAnimationDuration": 0.15,
+    "androidShowSplash": true,
+    "disableAnimations": false,
+    "hideWebviewAlpha": 0.5,
+    "iosDarkMode": "auto",
+    "iosTitleColor": "#0E0D08",
+    "iosTitleColorDark": "#ffffff",
+    "iosTintColor": "#0E0D08",
+    "iosTintColorDark": "#ffffff",
+    "iosSidebarTextColor": "#0E0D08",
+    "iosSidebarTextColorDark": "#ffffff",
+    "iosStatusBarBackgroundColor": "#ffffffff",
+    "iosStatusBarBackgroundColorDark": "#000000",
+    "iosEnableBlurInStatusBar": false,
+    "iosSidebarBackgroundColor": "#f8f8f8",
+    "iosSidebarBackgroundColorDark": "#202020",
+    "iosNavigationBarTintColor": "#f8f8f8",
+    "iosNavigationBarTintColorDark": "#202020",
+    "iosTabBarTintColor": "#f8f8f8",
+    "iosTabBarTintColorDark": "#000000",
+    "icon": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/app_icon_1706735347.png",
+    "iosHeaderImage": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/app_icon_1706735347.png",
+    "showActionBar": false,
+    "showNavigationBar": false,
+    "iosSidebarFont": "Default",
+    "androidHideTitleInActionBar": false,
+    "navigationTitleImage": false,
+    "iosTheme": "default",
+    "androidTheme": "auto",
+    "androidBackgroundColor": "#FFFFFF",
+    "androidSidebarBackgroundColor": "#FFFFFF",
+    "androidSidebarForegroundColor": "#1A100B",
+    "androidActionBarBackgroundColor": "#FFFFFF",
+    "androidActionBarForegroundColor": "#1A100B",
+    "androidPullToRefreshColor": "#1A100B",
+    "androidAccentColor": "#009688",
+    "androidSidebarSeparatorColor": "#CCCCCC",
+    "androidSidebarHighlightColor": "#1A100B",
+    "androidTabBarBackgroundColor": "#FFFFFF",
+    "androidTabBarTextColor": "#949494",
+    "androidTabBarIndicatorColor": "#1A100B",
+    "androidTabPressedBackgroundColor": "#CCCCCC",
+    "androidStatusBarBackgroundColor": "#5C5C5C",
+    "androidShowLogoInSideBar": true,
+    "androidShowAppNameInSideBar": true,
+    "androidSwipeNavigationBackgroundColor": "#FFFFFF",
+    "androidSwipeNavigationActiveColor": "#000000",
+    "androidSwipeNavigationInactiveColor": "#666666",
+    "androidActionBarBackgroundColorDark": "#333333",
+    "androidStatusBarBackgroundColorDark": "#333333",
+    "androidActionBarForegroundColorDark": "#FFFFFF",
+    "androidAccentColorDark": "#80cbc4",
+    "androidBackgroundColorDark": "#333333",
+    "androidSidebarForegroundColorDark": "#FFFFFF",
+    "androidSidebarBackgroundColorDark": "#333333",
+    "androidSidebarSeparatorColorDark": "#666666",
+    "androidSidebarHighlightColorDark": "#FFFFFF",
+    "androidPullToRefreshColorDark": "#FFFFFF",
+    "androidTabBarTextColorDark": "#FFFFFF",
+    "androidTabBarBackgroundColorDark": "#333333",
+    "androidTabBarIndicatorColorDark": "#666666",
+    "androidTabPressedBackgroundColorDark": "#999999",
+    "androidSwipeNavigationBackgroundColorDark": "#333333",
+    "androidSwipeNavigationActiveColorDark": "#FFFFFF",
+    "androidSwipeNavigationInactiveColorDark": "#666666",
+    "androidSplashBackgroundColor": "#FFFFFF",
+    "androidSplashBackgroundColorDark": "#000000",
+    "androidWebviewTextZoom": null,
+    "androidIcon": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/app_icon_1706735347.png",
+    "iosIcon": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/app_icon_1706735347.png",
+    "iosStatusBarStyle": "auto",
+    "iosEnableOverlayInStatusBar": false,
+    "androidStatusBarStyle": "auto",
+    "androidEnableOverlayInStatusBar": false,
+    "iosActivityIndicatorColor": "#808080",
+    "iosActivityIndicatorColorDark": "#808080",
+    "androidActivityIndicatorColor": "#808080",
+    "androidActivityIndicatorColorDark": "#808080",
+    "navigationTitleImageLocation": "assets/defaults/app-icon-placeholder.png",
+    "navigationTitleImageLocationDark": "assets/defaults/app-icon-placeholder.png",
+    "androidHeaderImage": "assets/defaults/app-icon-placeholder.png",
+    "androidHeaderImageDark": "assets/defaults/app-icon-placeholder.png",
+    "iosHeaderImageDark": "https://s3.amazonaws.com/gonativeio/app_files/exwjrd/app_icon_1706735347.png"
+  },
+  "permissions": {
+    "usesGeolocation": false,
+    "androidDownloadToPublicStorage": false,
+    "enableWebRTCamera": false,
+    "enableWebRTCMicrophone": false,
+    "iosLocationUsageDescription": "",
+    "iosCameraUsageDescription": "",
+    "iOSATTUserTrackingDescription": "",
+    "iOSRequestATTConsentOnLoad": false
+  },
+  "developmentTools": {
+    "enableWebConsoleLogs": false
+  },
+  "services": {
+    "oneSignal": {
+      "active": false
+    }
+  }
+}
